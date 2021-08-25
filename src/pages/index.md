@@ -30,7 +30,6 @@ sections:
           - Digital and experience strategy
           - Communication strategy
       - title: Brand design
-        image: images/service-2.svg
         content: |-
           - Brand development
           - Naming
