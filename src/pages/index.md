@@ -56,10 +56,7 @@ sections:
     section_id: cta
     content: |
       Tell me about your project. <email@example.com>
-    actions:
-      - label: Let's start
-        url: /contact
-        style: button
+    actions: []
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
