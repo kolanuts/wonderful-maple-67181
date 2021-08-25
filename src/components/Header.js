@@ -23,7 +23,7 @@ export default class Header extends React.Component {
                 <div className="navbar__menu-container">
                   <div className="navbar__scroller">
                     <button id="navbar__close" className="navbar__toggle js-nav-toggle"><span className="screen-reader-text">Close Menu</span><span className="icon-close" aria-hidden="true" /></button>
-                    <ul className="navbar__menu menu">
+                    <ul className="navbar__menu menu" style="display:none">
                       {_.map(_.get(this.props, 'pageContext.site.siteMetadata.header.nav_links', null), (action, action_idx) => {
                           let pageUrl = _.trim(_.get(this.props, 'pageContext.url', null), '/');
                           let actionUrl = _.trim(_.get(action, 'url', null), '/');
