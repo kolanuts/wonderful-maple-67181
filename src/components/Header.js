@@ -7,7 +7,7 @@ import Action from './Action';
 export default class Header extends React.Component {
     render() {
         return (
-            <header id="masthead" className="site-header container">
+            <header id="masthead" className="site-header2 container">
               <nav className="navbar" aria-label="Main Navigation">
                 {_.get(this.props, 'pageContext.site.siteMetadata.header.logo', null) ? (
                 <div className="navbar__logo">
