@@ -64,6 +64,7 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
+    title: Reach out
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
