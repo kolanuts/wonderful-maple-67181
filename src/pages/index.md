@@ -54,9 +54,8 @@ sections:
           - Product design
   - type: cta_section
     section_id: cta
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: |
+      Tell me about your project. <email@example.com>
     actions:
       - label: Let's start
         url: /contact
