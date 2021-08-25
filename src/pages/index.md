@@ -39,7 +39,6 @@ sections:
           - Brand implementation and management
           - Typography
       - title: Experience design
-        image: images/service-3.svg
         content: |-
           - Digital product design
           - Service design
