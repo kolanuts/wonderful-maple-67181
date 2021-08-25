@@ -57,7 +57,6 @@ sections:
     content: |
       Tell me about your project. <email@example.com>
     actions: []
-    image: images/cta.svg
     image_alt: Illustration
     bg_color: light
 seo:
