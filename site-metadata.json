@@ -21,17 +21,7 @@
                 "new_window": true
             }
         ],
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "title": "Stackbit Agency Theme",
     "domain": "https://wonderful-maple-67181.netlify.app"
