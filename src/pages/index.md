@@ -11,7 +11,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     subtitle: Recent work
-    projects_number: 3
+    projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
   - type: cta_section
