@@ -40,7 +40,7 @@ export default class Body extends React.Component {
                     {(font !== 'system-sans') && (
                     <link rel="preconnect" href="https://fonts.gstatic.com"/>
                     )}
-                    {(font !== 'literata') ? (
+                    {(font !== 'literata') && (
                     <link href="https://fonts.googleapis.com/css2?family=Literata&display=swap" rel="stylesheet"/>
                     )
                     {(font === 'fraunces') ? (
