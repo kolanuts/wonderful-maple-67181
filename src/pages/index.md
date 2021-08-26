@@ -16,7 +16,6 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: services
-    title: Services
     subtitle: What we do
     col_number: three
     grid_items:
