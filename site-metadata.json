@@ -24,5 +24,12 @@
         "links": []
     },
     "title": "Stackbit Agency Theme",
-    "domain": "https://wonderful-maple-67181.netlify.app"
+    "domain": "https://wonderful-maple-67181.netlify.app",
+    "header": {
+        "title": "lorem-ipsum",
+        "logo_alt": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
+    }
 }
