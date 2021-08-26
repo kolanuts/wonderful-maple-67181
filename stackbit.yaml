@@ -58,8 +58,8 @@ models:
         options:
           - fraunces
           - karla
-          - system-sans
           - literata
+          - system-sans
         default: fraunces
         required: true
       - type: model
