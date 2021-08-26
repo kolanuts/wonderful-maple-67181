@@ -1,7 +1,7 @@
 {
     "color_scheme": "light",
     "accent_color": "green",
-    "base_font": "karla",
+    "base_font": "system-sans",
     "footer": {
         "content": "&copy; Nora Beyer. All rights reserved. ",
         "has_social": true,
