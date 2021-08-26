@@ -16,8 +16,9 @@ sections:
     view_all_url: portfolio
   - type: cta_section
     section_id: cta
-    content: |
-      Tell me about your project. <email@example.com>
+    content: |+
+      For licensing music or pitching a collaboration: hello@nora-beyer.com
+
     actions: []
     image_alt: Illustration
     bg_color: light
