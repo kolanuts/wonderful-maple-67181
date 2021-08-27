@@ -1,5 +1,5 @@
 ---
-title: Artist Residence at Popfabryk (08/2021)
+title: 'Artist Residence at '
 subtitle: Brand Development
 date: '2021-08-21'
 thumb_image: images/norabeyer_popfabryk.jpg
