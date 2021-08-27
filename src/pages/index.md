@@ -32,7 +32,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Nora Beyer - Composer-producer based in Germany
       keyName: property
     - name: 'og:description'
       value: >-
