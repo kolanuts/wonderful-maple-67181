@@ -19,7 +19,9 @@ sections:
     image: images/Kopie-van-Kompost-OT1.png
     image_alt: Subtle 2
     width: regular
-    caption: 'KOMPOST: A project of Media Art Festival'
+    caption: >-
+      KOMPOST: A project of Noadic Wave Popfabryk Media Art Festival European
+      Media Art Festival
   - type: text_section
     content: >+
       *KOMPOST: Nahrung für den Geist* creates a free artistic context for a
