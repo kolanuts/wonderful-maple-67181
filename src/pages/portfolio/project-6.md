@@ -7,7 +7,7 @@ thumb_image_alt: Artist Residence at Popfabryk/EMAF
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
-    image_alt: Subtle 1
+    image_alt: Nora Beyer - Artist
     caption: This is the caption of the image
     width: wide
   - type: text_section
