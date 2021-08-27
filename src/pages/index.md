@@ -36,8 +36,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        Nora Beyer is a composer-producer specializing in instrumental music and
+        original film scores. For licensing & collaborations, get in touch.
       keyName: property
     - name: 'twitter:card'
       value: summary
