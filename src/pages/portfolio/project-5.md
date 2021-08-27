@@ -3,7 +3,7 @@ title: Outros for "Scriptnotes"
 subtitle: Jan-Feb 2021
 date: '2021-01-10'
 thumb_image: images/scriptnotes.png
-thumb_image_alt: Nature Magazine preview
+thumb_image_alt: Scriptnotes podcast logo
 sections:
   - type: image_section
     image: images/work-magazine-1.jpg
