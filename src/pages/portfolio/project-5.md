@@ -16,7 +16,6 @@ sections:
     content: |
       Three outros for Scriptnotes, used in one episode each:
   - type: image_section
-    image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section
