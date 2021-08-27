@@ -6,7 +6,7 @@ thumb_image: images/scriptnotes.png
 thumb_image_alt: Scriptnotes podcast logo
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
+    image: images/scriptnotes.png
     image_alt: Nature Magazine 1
     caption: This is the caption of the image
     width: wide
