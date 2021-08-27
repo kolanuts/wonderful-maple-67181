@@ -1,5 +1,5 @@
 ---
-title: 'Artist in Residence at '
+title: Artist in Residence at Popfabryk
 subtitle: (08/2021)
 date: '2021-08-21'
 thumb_image: images/norabeyer_popfabryk.jpg
