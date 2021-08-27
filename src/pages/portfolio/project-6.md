@@ -26,7 +26,7 @@ sections:
   - type: image_section
     image: images/Kopie-van-Kompost-OT1.png
     image_alt: Subtle 2
-    width: wide
+    width: regular
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
