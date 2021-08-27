@@ -1,5 +1,5 @@
 ---
-title: Subtle
+title: 'Artist Residence '
 subtitle: Brand Development
 date: '2021-08-21'
 thumb_image: images/norabeyer_popfabryk.jpg
