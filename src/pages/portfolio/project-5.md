@@ -9,8 +9,7 @@ sections:
     image: images/scriptnotes.png
     image_alt: Scriptnotes Podcast Logo
     caption: >-
-      In the podcast "Scriptnotes", screenwriters John August and Craig Mazin
-      discuss screenwriting in the film and TV industry
+      In the podcast "Scriptnotes", screenwriters John August and Craig Mazin discuss screenwriting in the film and TV industry
     width: wide
   - type: text_section
     content: |
