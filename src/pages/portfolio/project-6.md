@@ -31,7 +31,6 @@ sections:
       Media Art Festival in Osnabrück.
 
   - type: image_section
-    image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3
     width: wide
   - type: text_section
