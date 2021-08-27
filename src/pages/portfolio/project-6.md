@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
     image_alt: Nora Beyer at Popfabryk/EMAF
-    caption: 'Artist '
+    caption: Artist in Residence at Popfabryk/
     width: wide
   - type: text_section
     content: >-
