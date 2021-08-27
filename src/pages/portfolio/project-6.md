@@ -1,6 +1,6 @@
 ---
 title: Artist in Residence at Popfabryk
-subtitle: August
+subtitle: August 2021
 date: '2021-08-21'
 thumb_image: images/norabeyer_popfabryk.jpg
 thumb_image_alt: Artist Residence at Popfabryk/EMAF
