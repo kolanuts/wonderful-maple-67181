@@ -14,6 +14,7 @@ sections:
   - type: text_section
     content: |
       "Scriptnotes" is one of Hollywood's most 
+      
       So far, I have produced four outros for Scriptnotes, used in one episode each:
   - type: text_section
     content: >-
