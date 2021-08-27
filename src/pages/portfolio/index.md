@@ -27,4 +27,5 @@ seo:
       value: images/work-book-1.jpg
       relativeUrl: true
 template: portfolio
+title: Recent work
 ---
