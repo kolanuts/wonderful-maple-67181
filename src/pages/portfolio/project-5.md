@@ -15,7 +15,7 @@ sections:
   - type: text_section
     content: >
       "Scriptnotes" is one of Hollywood's most-listened podcasts. Listeners can
-      submit original outros to play at the end of episodes. 
+      submit original outros to play at the end of episodes.
 
 
       [The rules](https://johnaugust.com/2014/outros-needed): *Outros must be a
@@ -39,7 +39,7 @@ sections:
 
 
       Three have been used in the podcast, and the Gregorian chanting one they
-      liked so much, they used it twice.
+      liked so much, they used it in two different episodes.
   - type: text_section
     content: >-
       <iframe width="100%" height="166" scrolling="no" frameborder="no"
