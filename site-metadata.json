@@ -31,5 +31,6 @@
         "has_nav": true,
         "nav_links": [],
         "type": "header"
-    }
+    },
+    "favicon": "images/favicon-32x32.png"
 }
