@@ -749,8 +749,8 @@ models:
           - pinterest
           - twitter
           - vimeo
-          - youtube
           - spotify
+          - youtube
         default: dribbble
       - type: boolean
         name: new_window
