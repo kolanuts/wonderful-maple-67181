@@ -29,7 +29,17 @@
         "title": "Nora Beyer",
         "logo_alt": "Nora Beyer",
         "has_nav": false,
-        "nav_links": [],
+        "nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "type": "header"
     },
     "favicon": "images/favicon-32x32.png"
