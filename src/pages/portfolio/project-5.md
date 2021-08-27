@@ -8,7 +8,9 @@ sections:
   - type: image_section
     image: images/scriptnotes.png
     image_alt: Nature Magazine 1
-    caption: This is the caption of the image
+    caption: >-
+      In their podcast "Scriptnotes", screenwriters John August and Craig Mazin
+      discuss screenwriting in the film and TV industry
     width: wide
   - type: text_section
     content: >-
