@@ -14,15 +14,7 @@ sections:
     content: >
       Popfabryk, Media Art Friesland, European Media Art Festival and New
       Noardic Wave invited image makers, visual artists, composers and music
-      producers to participate in a unique edition of KOMPOST. *KOMPOST: Nahrung
-      für den Geist* creates a free artistic context for a collaborative
-      artist-in-residence in the Frisian countryside, with a focus on the
-      landscape and the role we play in it by eating, living and working there.
-      Five sound and image makers from Friesland and the German region of
-      Osnabrück jointly realized an audiovisual production in ten days, using
-      the local landscape as a starting point. The resulting works are presented
-      at Media Art Festival - LUNA in Leeuwarden in 2022 and at the European
-      Media Art Festival in Osnabrück.
+      producers to participate in a unique edition of KOMPOST. 
   - type: image_section
     image: images/Kopie-van-Kompost-OT1.png
     image_alt: Subtle 2
