@@ -20,8 +20,8 @@ sections:
     image_alt: Subtle 2
     width: regular
     caption: >-
-      KOMPOST: A project of New Noardic Wave, Popfabryk, Media Art Festival LUNA
-      and European Media Art Festival
+      KOMPOST: A residence project of New Noardic Wave, Popfabryk, Media Art
+      Festival LUNA and European Media Art Festival
   - type: text_section
     content: >+
       *KOMPOST: Nahrung für den Geist* creates a free artistic context for a
