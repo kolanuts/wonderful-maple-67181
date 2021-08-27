@@ -3,7 +3,7 @@ title: Subtle
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: images/norabeyer_popfabryk.jpg
-thumb_image_alt: 'Artist Residence at Popfabryk/ '
+thumb_image_alt: Artist Residence at Popfabryk/EMAF
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
