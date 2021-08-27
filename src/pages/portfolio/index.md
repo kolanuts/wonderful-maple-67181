@@ -1,5 +1,5 @@
 ---
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Recent work
 layout_style: mosaic
 seo:
   title: Portfolio
