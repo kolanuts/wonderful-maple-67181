@@ -47,5 +47,9 @@ seo:
       value: >-
         We are a brand and design practice. We work closely with you, your team
         to deliver inspiring work, which enables your organization to grow.
+    - name: 'twitter:image'
+      value: images/norabeyer_popfabryk-f6e076b1.jpg
+      keyName: property
+      relativeUrl: true
 template: advanced
 ---
