@@ -3,7 +3,7 @@ title: Artist in Residence at Popfabryk
 subtitle: August 2021
 date: '2021-08-21'
 thumb_image: images/norabeyer_popfabryk.jpg
-thumb_image_alt: 'Nora Beyer: Artist Residence at Popfabryk/EMAF'
+thumb_image_alt: 'Nora Beyer: Artist in Residence at Popfabryk/EMAF'
 sections:
   - type: image_section
     image: images/norabeyer_popfabryk-f6e076b1.jpg
