@@ -11,15 +11,16 @@ sections:
     caption: Artist in Residence at Popfabryk/European Media Arts Festival
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      Popfabryk, Media Art Friesland, European Media Art Festival and New
+      Noardic Wave invited image makers, visual artists, composers and music
+      producers to participate in a unique edition of KOMPOST. *KOMPOST: Nahrung
+      für den Geist* creates a free artistic context for a collaborative
+      artist-in-residence in the Frisian countryside, with a focus on the
+      landscape and the role we play in it by eating, living and working there.
+      Five sound and image makers from Friesland and the German region of
+      Osnabrück jointly realized an audiovisual production in ten days, using
+      the local landscape as a starting point.
   - type: image_section
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
