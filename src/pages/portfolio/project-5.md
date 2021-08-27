@@ -13,9 +13,9 @@ sections:
     width: wide
   - type: text_section
     content: |
-      "Scriptnotes" is one of Hollywood's most beloved, most-listened podcasts. Listeners can submit original outros to play at the end of episodes. Screenwriter John August explains the rules: https://johnaugust.com/2014/outros-needed
+      "Scriptnotes" is one of Hollywood's most beloved, most-listened podcasts. Listeners can submit original outros to play at the end of episodes. Screenwriter John August explains: https://johnaugust.com/2014/outros-needed
 
-    
+        Themes must be a variation on that same five-note theme.about 30 seconds
 
       So far, I have produced four outros for Scriptnotes. Three have been used in the podcast, and one them they liked so much, they  used it twice:
   - type: text_section
