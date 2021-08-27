@@ -7,7 +7,7 @@ thumb_image_alt: Scriptnotes podcast logo
 sections:
   - type: image_section
     image: images/scriptnotes.png
-    image_alt: Scriptnotes Logo
+    image_alt: Scriptnotes Podcast Logo
     caption: >-
       In their podcast "Scriptnotes", screenwriters John August and Craig Mazin
       discuss screenwriting in the film and TV industry
