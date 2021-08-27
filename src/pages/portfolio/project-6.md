@@ -20,7 +20,9 @@ sections:
       landscape and the role we play in it by eating, living and working there.
       Five sound and image makers from Friesland and the German region of
       Osnabrück jointly realized an audiovisual production in ten days, using
-      the local landscape as a starting point.
+      the local landscape as a starting point. The resulting works are presented
+      at Media Art Festival - LUNA in Leeuwarden in 2022 and at the European
+      Media Art Festival in Osnabrück.
   - type: image_section
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
