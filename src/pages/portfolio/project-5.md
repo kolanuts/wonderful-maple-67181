@@ -11,7 +11,7 @@ sections:
     caption: >-
       In their podcast "Scriptnotes", screenwriters John August and Craig Mazin
       discuss screenwriting in the film and TV industry
-    width: regular
+    width: wide
   - type: text_section
     content: |+
       Three outros for Scriptnotes.
