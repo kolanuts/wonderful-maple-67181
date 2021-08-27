@@ -24,7 +24,7 @@ sections:
       at Media Art Festival - LUNA in Leeuwarden in 2022 and at the European
       Media Art Festival in Osnabrück.
   - type: image_section
-    image: images/work-photography-magazine-2.jpg
+    image: images/Kopie-van-Kompost-OT1.png
     image_alt: Subtle 2
     width: wide
   - type: text_section
