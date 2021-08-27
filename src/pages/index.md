@@ -23,7 +23,7 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: Nora Beyer - Composer-producer
   description: >-
     We are a brand and design practice. We work closely with you, your team to
     deliver inspiring work, which enables your organization to grow.
