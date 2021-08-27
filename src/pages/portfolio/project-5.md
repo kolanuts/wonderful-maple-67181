@@ -1,5 +1,5 @@
 ---
-title: Outros for "Scriptnotes" Podcast
+title: Outros for "Scriptnotes"
 subtitle: Jan-Feb 2021
 date: '2021-01-10'
 thumb_image: images/scriptnotes.png
