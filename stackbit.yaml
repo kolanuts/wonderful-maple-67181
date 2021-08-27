@@ -750,6 +750,7 @@ models:
           - twitter
           - vimeo
           - youtube
+          - spotify
         default: dribbble
       - type: boolean
         name: new_window
