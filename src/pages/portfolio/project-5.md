@@ -1,6 +1,6 @@
 ---
 title: Outro Compositions for Scriptnotes
-subtitle: Editorial Design
+subtitle: Jan-Feb 2021
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
