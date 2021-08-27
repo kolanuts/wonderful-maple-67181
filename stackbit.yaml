@@ -749,7 +749,7 @@ models:
           - pinterest
           - twitter
           - vimeo
-          - spotify
+          - spotify 
           - youtube
         default: dribbble
       - type: boolean
