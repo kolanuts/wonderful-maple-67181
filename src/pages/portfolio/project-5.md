@@ -14,28 +14,28 @@ sections:
     width: wide
   - type: text_section
     content: >
-      "Scriptnotes" is one of Hollywood's most beloved, most-listened podcasts.
-      Listeners can submit original outros to play at the end of episodes.
-      Screenwriter John August
-      [explained](https://johnaugust.com/2014/outros-needed): Outros must be a
-      variation on the Scriptnotes five-note intro theme, about 30 seconds in
-      length.
+      "Scriptnotes" is one of Hollywood's most-listened podcasts. Listeners can
+      submit original outros to play at the end of episodes. 
 
 
-      So far, I have produced four outros for the show, in very different
-      styles:
+      [The rules](https://johnaugust.com/2014/outros-needed): *Outros must be a
+      variation on the Scriptnotes five-note intro theme, ideally about 30
+      seconds in length.*
+
+
+      So far, I have produced four outros for the show in very different styles:
 
 
       *   High School Musical-themed,
 
 
-      *   Tenet-themed, 
+      *   Tenet-themed,
 
 
       *   Gregorian chanting,
 
 
-      *   the Downtown Abbey Theme 
+      *   the Downtown Abbey Theme
 
 
       Three have been used in the podcast, and the Gregorian chanting one they
