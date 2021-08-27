@@ -1,5 +1,4 @@
 ---
-subtitle: Recent work
 layout_style: mosaic
 seo:
   title: Portfolio
