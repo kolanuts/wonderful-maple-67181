@@ -5,7 +5,7 @@ subtitle: >-
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 seo:
-  title: Theme Style Guide
+  title: Style Guide
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
