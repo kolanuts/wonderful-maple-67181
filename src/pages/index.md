@@ -17,7 +17,7 @@ sections:
   - type: cta_section
     section_id: cta
     content: |
-      For licensing music or pitching a collaboration: hello@nora-beyer.de
+      For licensing music or pitching collaborations: hello@nora-beyer.de
     actions: []
     image_alt: Illustration
     bg_color: light
