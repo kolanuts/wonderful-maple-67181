@@ -97,7 +97,7 @@ sections:
       title="Scriptnotes Outro (4)" target="_blank" style="color: #cccccc;
       text-decoration: none;">Scriptnotes Outro (4)</a></div>
 seo:
-  title: Nature Magazine
+  title: Nora Beyer
   description: This is the sample project description
   extra:
     - name: 'og:type'
