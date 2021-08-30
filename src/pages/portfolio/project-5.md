@@ -118,7 +118,9 @@ seo:
     - name: 'twitter:title'
       value: Nora Beyer
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: >-
+        Nora Beyer is a composer-producer specializing in instrumental music and
+        original film scores. For licensing & collaborations, get in touch.
     - name: 'twitter:image'
       value: images/work-magazine-1.jpg
       relativeUrl: true
