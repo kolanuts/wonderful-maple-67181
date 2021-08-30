@@ -107,7 +107,9 @@ seo:
       value: Nature Magazine
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: >-
+        Nora Beyer is a composer-producer specializing in instrumental music and
+        original film scores. For licensing & collaborations, get in touch.
       keyName: property
     - name: 'og:image'
       value: images/work-magazine-1.jpg
