@@ -104,7 +104,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Magazine
+      value: Nora Beyer
       keyName: property
     - name: 'og:description'
       value: >-
