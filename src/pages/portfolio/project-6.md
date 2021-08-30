@@ -36,7 +36,9 @@ sections:
     image_alt: Subtle 3
     width: wide
 seo:
-  title: Subtle
+  title: >-
+    Nora Beyer is a composer-producer specializing in instrumental music and
+    original film scores. For licensing & collaborations, get in touch.
   description: This is the sample project description
   extra:
     - name: 'og:type'
