@@ -32,9 +32,6 @@ sections:
       the local landscape as a starting point. The resulting works are presented
       at Media Art Festival - LUNA in Leeuwarden in 2022 and at the European
       Media Art Festival in Osnabrück.
-  - type: image_section
-    image_alt: Subtle 3
-    width: wide
 seo:
   title: Nora Beyer
   description: >-
