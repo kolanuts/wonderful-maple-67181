@@ -49,7 +49,7 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-photography-magazine-1.jpg
+      value: images/norabeyer_popfabryk-f6e076b1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
