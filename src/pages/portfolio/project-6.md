@@ -45,7 +45,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Subtle
+      value: Nora Beyer
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
