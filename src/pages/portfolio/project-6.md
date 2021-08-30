@@ -59,7 +59,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Subtle
+      value: Nora Beyer
     - name: 'twitter:description'
       value: >-
         Nora Beyer is a composer-producer specializing in instrumental music and
