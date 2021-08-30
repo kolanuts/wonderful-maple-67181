@@ -65,7 +65,7 @@ seo:
         Nora Beyer is a composer-producer specializing in instrumental music and
         original film scores. For licensing & collaborations, get in touch.
     - name: 'twitter:image'
-      value: images/work-photography-magazine-1.jpg
+      value: images/norabeyer_popfabryk-f6e076b1.jpg
       relativeUrl: true
 template: project
 ---
