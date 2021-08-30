@@ -17,7 +17,7 @@ sections:
       producers to participate in a unique edition of KOMPOST. 
   - type: image_section
     image: images/Kopie-van-Kompost-OT1.png
-    image_alt: Subtle 2
+    image_alt: Kompost Logo
     width: regular
     caption: >-
       KOMPOST: A residence project of New Noardic Wave, Popfabryk, Media Art
