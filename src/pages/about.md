@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: "Nora Beyer is a composer-producer based in Osnabrück, Germany, who specializes in instrumental music and original film scores.\_\n\nAfter taking up the drums at age 11, Nora Beyer played percussive instruments from timpani to marimba in youth philharmonic orchestras. Influenced by classical orchestrations for film, such as those of Alexandre Desplat and Jóhann Jóhannsson, she set about producing instrumental scores in her adolescence but has since also drawn inspiration from synthesizer sounds and ambient soundscapes (Trent Reznor, Sufjan Stevens, Vangelis, Lorn, Mica Levi).\_\n\nIn 2021, Nora Beyer was invited for an artist residency in the Netherlands by Popfabryk and New Noardic Wave. Her latest works are set to be presented at Leeuwarden Urban Night Adventure 2022 and the European Media Art Festival 2022. Her understanding of movie production and emotional storytelling also led her to become a member of the jury for the International Film Festival Osnabrück in 2021.\_\n\nFor licensing & collaborations, reach out to <hello@nora-beyer.de>. Most collaborations concern original film scores, but other kinds of projects will also be considered.\n"
-    image: images/about.jpg
+    image: images/index.jpg
     image_alt: Our team in the meeting room
 seo:
   title: About Us
