@@ -41,21 +41,6 @@ sections:
 
           - dolor sit amet
         actions: []
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >
-          ## orem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
-        actions: []
     type: grid_section
 seo:
   title: About Us
