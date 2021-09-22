@@ -31,7 +31,7 @@
         "has_nav": false,
         "nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Header",
                 "url": "#",
                 "style": "link",
                 "icon": "dribbble",
