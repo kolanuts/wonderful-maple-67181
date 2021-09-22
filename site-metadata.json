@@ -32,7 +32,7 @@
         "nav_links": [
             {
                 "label": "Header",
-                "url": "#",
+                "url": "about",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
