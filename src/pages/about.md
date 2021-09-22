@@ -9,7 +9,7 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: three
+    col_number: two
     grid_items: []
     type: grid_section
 seo:
