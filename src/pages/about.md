@@ -2,8 +2,6 @@
 title: About
 hide_title: false
 sections:
-  - type: content_section
-    image_alt: Our team in the meeting room
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
