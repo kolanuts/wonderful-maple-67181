@@ -26,8 +26,7 @@ sections:
 
           - dolor sit amet
         actions: []
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
