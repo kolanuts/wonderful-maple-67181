@@ -40,6 +40,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/index.jpg
     type: grid_section
 seo:
   title: About Us
