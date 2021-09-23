@@ -28,7 +28,7 @@
     "header": {
         "title": "Nora Beyer",
         "logo_alt": "Nora Beyer",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "About",
