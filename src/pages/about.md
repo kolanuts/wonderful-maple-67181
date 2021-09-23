@@ -13,7 +13,7 @@ sections:
         image: images/index.jpg
     type: grid_section
 seo:
-  title: About Us
+  title: About
   description: This is the about us page
   extra:
     - name: 'og:type'
