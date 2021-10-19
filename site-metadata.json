@@ -16,7 +16,7 @@
             {
                 "label": "Spotify",
                 "url": "https://soundcloud.com/liv_official",
-                "style": "icon",
+                "style": "link",
                 "icon": "spotify",
                 "new_window": true
             }
