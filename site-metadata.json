@@ -12,13 +12,6 @@
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
-            },
-            {
-                "label": "Spotify",
-                "url": "https://soundcloud.com/liv_official",
-                "style": "link",
-                "icon": "pinterest",
-                "new_window": true
             }
         ],
         "links": []
