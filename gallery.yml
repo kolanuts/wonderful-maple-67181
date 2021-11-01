@@ -1,6 +1,6 @@
 - title: Image Gallery Title
   images:
-    - link: https://via.placeholder.com/800x450
+    - link: file:///C:/Users/nora_/OneDrive/Bilder/Saved%20Pictures/240727710_3104059166483436_272236226139752469_n.jpg
       large_link: https://via.placeholder.com/1200x675
       alt: The alt text for the image
       description: |-
