@@ -19,6 +19,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: images/Kopie-van-Kompost-OT1-1a03c326.png
 seo:
   title: ''
   description: ''
