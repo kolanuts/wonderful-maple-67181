@@ -24,8 +24,8 @@ sections:
     image: images/Kopie-van-Kompost-OT1-1a03c326.png
   - content: "*KOMPOST: Nahrung für den Geist*\_creates a free artistic context for a collaborative artist-in-residence in the Frisian countryside, with a focus on the landscape and the role we play in it by eating, living and working there. Ten sound and image makers from the Netherlands and Germany jointly realized an audiovisual production in ten days, using the local landscape as a starting point. The resulting works are presented at Media Art Festival - LUNA in Leeuwarden in 2022 and at the European Media Art Festival in Osnabrück.\n\n\n\nAt the end of the week, we presented our work to the festival directors and the press. We set up wireless headphones on top of the silo nearby, so that everybody could enjoy the fantastic view over the dyke. After all, this is the landscape that inspired everything this week,  from the food we eat to the discussions we had to tthe art we made. The experience was accompanied by a drink made from beetroot syrup, a very local food, which was also made by one of the artists.\n\nHere’s what the landscape sounded like to me:\n\n\n\n\n\n\n\n\n\n\n\n"
     type: text_section
-  - content: >+
-      \<iframe width="100%" height="166" scrolling="no" frameborder="no"
+  - content: >
+      *\<iframe width="100%" height="166" scrolling="no" frameborder="no"
       allow="autoplay"
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/971889427\&color=%23ff5500\&auto_play=false\&hide_related=false\&show_comments=true\&show_user=true\&show_reposts=false\&show_teaser=true">\</iframe>\<div
       style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
@@ -36,8 +36,7 @@ sections:
       style="color: #cccccc; text-decoration: none;">LIV\</a> · \<a
       href="https://soundcloud.com/liv_official/scriptnotes-outro-1"
       title="Scriptnotes Outro (1)" target="\_blank" style="color: #cccccc;
-      text-decoration: none;">Scriptnotes Outro (1)\</a>\</div>
-
+      text-decoration: none;">Scriptnotes Outro (1)\</a>\</div>*
     type: text_section
 seo:
   title: ''
