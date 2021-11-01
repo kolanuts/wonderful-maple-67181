@@ -38,10 +38,10 @@ sections:
       title="Questions Of Belonging" target="_blank" style="color: #cccccc;
       text-decoration: none;">Questions Of Belonging</a></div>
     type: text_section
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
+  - layout: page
+title: My Image Gallery
+gallery: my_gallery
+
 seo:
   title: ''
   description: ''
