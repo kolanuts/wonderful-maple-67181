@@ -44,7 +44,7 @@ sections:
     type: image_section
 layout: page
 title: My Image Gallery
-gallery: my_gallery
+gallery: gallery
 seo:
   title: ''
   description: ''
