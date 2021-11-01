@@ -1,6 +1,6 @@
 - title: Image Gallery Title
   images:
-    - link: 
+    - link: https://via.placeholder.com/800x450
       large_link: https://via.placeholder.com/1200x675
       alt: The alt text for the image
       description: |-
