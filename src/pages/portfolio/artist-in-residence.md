@@ -49,17 +49,9 @@ sections:
 
 
 
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: >
+      1. 
+      <https://soundcloud.com/liv_official/questions-of-belonging?si=61b8b5f42a85435ea12612438b3d370f>
     type: text_section
 seo:
   title: Nora Beyer
