@@ -1,6 +1,6 @@
 ---
 title: Artist-in-residence
-subtitle: Aug 2021
+subtitle: August 2021
 date: '2021-08-21'
 thumb_image_alt: Marrum profile foto
 sections:
