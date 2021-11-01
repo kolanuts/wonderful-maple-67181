@@ -47,8 +47,7 @@ sections:
       Here’s what the landscape sounded like to me:
 
 
-  - content: >-
-      
+
     type: text_section
 seo:
   title: Nora Beyer
