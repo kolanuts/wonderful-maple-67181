@@ -1,6 +1,6 @@
 ---
 title: Artist-in-residence
-subtitle: lorem-ipsum
+subtitle: Aug 2021
 date: '2021-11-01'
 thumb_image_alt: lorem-ipsum
 sections: []
