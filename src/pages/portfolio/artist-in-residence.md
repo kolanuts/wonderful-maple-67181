@@ -47,16 +47,6 @@ sections:
       Here’s what the landscape sounded like to me:
 
 
-eposts=false&show_teaser=true"></iframe><div
-      style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
-      normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;
-      font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida
-      Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a
-      href="https://soundcloud.com/liv_official" title="LIV" target="_blank"
-      style="color: #cccccc; text-decoration: none;">LIV</a> · <a
-      href="https://soundcloud.com/liv_official/scriptnotes-outro-1"
-      title="Scriptnotes Outro (1)" target="_blank" style="color: #cccccc;
-      text-decoration: none;">Scriptnotes Outro (1)</a></div>
 seo:
   title: Nora Beyer
   description: >-
