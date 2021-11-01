@@ -10,4 +10,5 @@ seo:
   robots: []
   extra: []
 template: project
+thumb_image: images/240727710_3104059166483436_272236226139752469_n.jpg
 ---
