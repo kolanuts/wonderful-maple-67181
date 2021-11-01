@@ -21,14 +21,6 @@ sections:
     actions: []
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 0
-    view_all_label: lorem-ipsum
-    view_all_url: '#'
-    type: portfolio_section
 seo:
   title: Nora Beyer
   description: >-
