@@ -16,7 +16,9 @@ sections:
 
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: >-
+      KOMPOST: A residence project of New Noardic Wave, Popfabryk, Media Art
+      Festival LUNA and European Media Art Festival
     width: regular
     type: image_section
     image: images/Kopie-van-Kompost-OT1-1a03c326.png
