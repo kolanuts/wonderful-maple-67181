@@ -4,7 +4,7 @@ subtitle: August 2021
 date: '2021-08-21'
 thumb_image_alt: Marrum profile foto
 sections:
-  - image_alt: lorem-ipsum
+  - image_alt: image nora
     caption: Artist in Residence at Popfabryk/European Media Arts Festival
     width: regular
     type: image_section
