@@ -43,7 +43,7 @@ sections:
     width: regular
     type: image_section
     
-- layout: page
+layout: page
 title: My Image Gallery
 gallery: my_gallery
 
