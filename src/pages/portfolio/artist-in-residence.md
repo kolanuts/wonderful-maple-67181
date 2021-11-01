@@ -15,7 +15,7 @@ sections:
       producers to participate in a unique edition of KOMPOST.
 
     type: text_section
-  - image_alt: lorem-ipsum
+  - image_alt: kompost logo
     caption: >-
       KOMPOST: A residence project of New Noardic Wave, Popfabryk, Media Art
       Festival LUNA and European Media Art Festival
