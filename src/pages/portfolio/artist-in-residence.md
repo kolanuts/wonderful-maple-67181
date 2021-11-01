@@ -42,7 +42,6 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-    image: images/241461549_3110784729144213_8755346823178308810_n.jpg
 seo:
   title: ''
   description: ''
