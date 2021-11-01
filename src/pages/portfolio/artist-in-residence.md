@@ -23,15 +23,32 @@ sections:
       KOMPOST: A residence project of New Noardic Wave, Popfabryk, Media Art
       Festival LUNA and European Media Art Festival
   - type: text_section
-    content: >
+    content: >+
       *KOMPOST: Nahrung für den Geist* creates a free artistic context for a
       collaborative artist-in-residence in the Frisian countryside, with a focus
       on the landscape and the role we play in it by eating, living and working
-      there. Ten sound and image makers from Friesland and the German region of
-      Osnabrück jointly realized an audiovisual production in ten days, using
-      the local landscape as a starting point. The resulting works are presented
-      at Media Art Festival - LUNA in Leeuwarden in 2022 and at the European
-      Media Art Festival in Osnabrück.
+      there. Ten sound and image makers from the Netherlands and Germany jointly
+      realized an audiovisual production in ten days, using the local landscape
+      as a starting point. The resulting works are presented at Media Art
+      Festival - LUNA in Leeuwarden in 2022 and at the European Media Art
+      Festival in Osnabrück.
+
+
+      At the end of the week, we presented our work to the festival directors
+      and the press. Because we wanted everybody to enjoy the fantastic view
+      over the dyke while listening to the music, we set up wireless headphones
+      on top of the silo nearby. After all, this is the landscape that inspired
+      everything this week, from the food we eat to the discussions we had to
+      the art we made. The experience was accompanied by a drink made from
+      beetroot syrup, a very local food, which was also made by one of the
+      artists.
+
+
+      Here’s what the landscape sounded like to me:
+
+
+
+
 seo:
   title: Nora Beyer
   description: >-
