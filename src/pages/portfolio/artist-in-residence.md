@@ -42,6 +42,8 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+
+
 seo:
   title: ''
   description: ''
