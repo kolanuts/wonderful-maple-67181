@@ -5,7 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     content: >
-      Nora Beyer is a composer-producer based in Osnabrück, Germany. She specializes in instrumental music and original film scores.
+      Nora Beyer is a composer-producer based in Osnabrück, Germany. She
+      specializes in instrumental music and original film scores.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
@@ -20,10 +21,19 @@ sections:
     actions: []
     image_alt: Illustration
     bg_color: light
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
 seo:
   title: Nora Beyer
   description: >-
-    Nora Beyer is a composer-producer specializing in instrumental music and  original film scores. For licensing & collaborations, get in touch.
+    Nora Beyer is a composer-producer specializing in instrumental music and 
+    original film scores. For licensing & collaborations, get in touch.
   extra:
     - name: 'og:type'
       value: website
@@ -33,7 +43,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Nora Beyer is a composer-producer specializing in instrumental music and original film scores. For licensing & collaborations, get in touch.
+        Nora Beyer is a composer-producer specializing in instrumental music and
+        original film scores. For licensing & collaborations, get in touch.
       keyName: property
     - name: 'twitter:card'
       value: summary
