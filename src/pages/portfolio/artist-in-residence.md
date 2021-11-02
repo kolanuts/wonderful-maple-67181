@@ -37,7 +37,6 @@ sections:
       href="https://soundcloud.com/liv_official/questions-of-belonging"
       title="Questions Of Belonging" target="_blank" style="color: #cccccc;
       text-decoration: none;">Questions Of Belonging</a></div>
-
 seo:
   title: ''
   description: ''
