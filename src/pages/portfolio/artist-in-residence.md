@@ -13,7 +13,6 @@ sections:
       Popfabryk, Media Art Friesland, European Media Art Festival and New
       Noardic Wave invited image makers, visual artists, composers and music
       producers to participate in a unique edition of KOMPOST.
-
     type: text_section
   - image_alt: kompost logo
     caption: >-
