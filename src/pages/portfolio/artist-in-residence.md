@@ -38,6 +38,8 @@ sections:
       title="Questions Of Belonging" target="_blank" style="color: #cccccc;
       text-decoration: none;">Questions Of Belonging</a></div>
     type: text_section
+    type: gallery
+
 seo:
   title: ''
   description: ''
