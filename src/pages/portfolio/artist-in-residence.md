@@ -10,11 +10,12 @@ sections:
     image_alt: image nora
     caption: Artist in Residence at Popfabryk/European Media Arts Festival
     width: regular
-  - content: >-
+  - type: text_section
+    content: >-
       Popfabryk, Media Art Friesland, European Media Art Festival and New
       Noardic Wave invited image makers, visual artists, composers and music
       producers to participate in a unique edition of KOMPOST.
-    type: text_section
+    
   - image_alt: kompost logo
     caption: >-
       KOMPOST: A residence project of New Noardic Wave, Popfabryk, Media Art
