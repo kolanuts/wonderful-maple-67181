@@ -8,7 +8,7 @@ sections:
   - image_alt: image nora
     caption: Artist in Residence at Popfabryk/European Media Arts Festival
     width: regular
-    type: image_section
+    
     image: images/240727710_3104059166483436_272236226139752469_n-94009141.jpg
   - content: >-
       Popfabryk, Media Art Friesland, European Media Art Festival and New
