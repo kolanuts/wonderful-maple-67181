@@ -22,6 +22,7 @@ sections:
       KOMPOST: A residence project of New Noardic Wave, Popfabryk, Media Art
       Festival LUNA and European Media Art Festival
     width: regular
+  - type:text_section
 seo:
   title: ''
   description: ''
