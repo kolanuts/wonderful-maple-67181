@@ -10,7 +10,7 @@ sections:
     width: regular
     type: image_section
     image: images/240727710_3104059166483436_272236226139752469_n-94009141.jpg
-  - content: >+
+  - content: >-
       Popfabryk, Media Art Friesland, European Media Art Festival and New
       Noardic Wave invited image makers, visual artists, composers and music
       producers to participate in a unique edition of KOMPOST.
