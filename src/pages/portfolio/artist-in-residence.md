@@ -58,7 +58,7 @@ sections:
       href="https://soundcloud.com/liv_official/questions-of-belonging"
       title="Questions Of Belonging" target="_blank" style="color: #cccccc;
       text-decoration: none;">Questions Of Belonging</a></div>
-  - image_alt: lorem-ipsum
+  - image_alt: Impressions
     caption: Impressions of Marrum
     width: regular
     type: image_section
