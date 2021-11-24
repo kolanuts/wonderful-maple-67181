@@ -40,8 +40,10 @@ sections:
       After all, this is the landscape that inspired everything this week,  from
       the food we ate to the discussions we had to the art we made. The
       experience was accompanied by a drink made from beetroot syrup, a very
-      local food, which was also made by one of the artists.\n\nHere’s what the
-      landscape sounded like to me:
+      local food, which was also made by one of the artists.
+
+
+      Here’s what the landscape sounded like to me:
   - type: text_section
     content: >-
       <iframe width="100%" height="300" scrolling="no" frameborder="no"
