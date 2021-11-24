@@ -30,8 +30,8 @@ sections:
       there. Ten sound and image makers from the Netherlands and Germany jointly
       realized an audiovisual production in ten days, using the local landscape
       as a starting point. The resulting works are presented at Media Art
-      Festival - LUNA in Leeuwarden in 2022 and at the European Media Art
-      Festival in Osnabrück.
+      Festival - LUNA in Leeuwarden and at the European Media Art Festival in
+      Osnabrück in 2022.
 
 
       At the end of the week, we presented our work to the festival directors
