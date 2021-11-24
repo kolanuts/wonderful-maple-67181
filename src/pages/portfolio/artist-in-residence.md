@@ -58,11 +58,6 @@ sections:
       href="https://soundcloud.com/liv_official/questions-of-belonging"
       title="Questions Of Belonging" target="_blank" style="color: #cccccc;
       text-decoration: none;">Questions Of Belonging</a></div>
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
-    width: regular
-    type: image_section
-    image: images/Screenshot 2021-11-24 140805.png
 seo:
   title: ''
   description: ''
