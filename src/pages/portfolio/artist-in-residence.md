@@ -59,7 +59,7 @@ sections:
       title="Questions Of Belonging" target="_blank" style="color: #cccccc;
       text-decoration: none;">Questions Of Belonging</a></div>
   - image_alt: lorem-ipsum
-    caption: 'Marrum, Netherlands 2021'
+    caption: Impressions
     width: regular
     type: image_section
     image: images/Screenshot 2021-11-24 140805-47e91fd1.png
