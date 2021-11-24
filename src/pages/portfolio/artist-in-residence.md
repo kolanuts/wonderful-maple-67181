@@ -41,12 +41,12 @@ sections:
   - content: >
       At the end of the week, we presented our work to the festival directors
       and the press. We set up wireless headphones on top of the silo nearby, so
-      that everybody could enjoy a fantastic view over the dike and the fields.
-      After all, this is the landscape that inspired everything this week,  from
-      the food we ate to the discussions we had to the art we made. The
-      experience was accompanied by a drink made from beetroot syrup, a very
-      local food, which was also made by one of the artists.
-
+      that everybody could enjoy a fantastic view over the dike and the fields
+      while listening to the sound piece. After all, this is the landscape that
+      inspired everything this week,  from the food we ate to the discussions we
+      had to the art we made. The experience was accompanied by a drink made
+      from beetroot syrup (a very local food), which was also made by one of the
+      artists.
 
 
       Here’s what the landscape sounded like to me:
