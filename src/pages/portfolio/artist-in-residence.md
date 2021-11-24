@@ -62,7 +62,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
-    image: images/241383608_3110784769144209_8960855056215379451_n.jpg
+    image: images/Screenshot 2021-11-24 140805.png
 seo:
   title: ''
   description: ''
