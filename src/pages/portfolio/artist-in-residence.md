@@ -23,7 +23,7 @@ sections:
       Festival LUNA and European Media Art Festival
     width: regular
   - type: text_section
-    content: >
+    content: >+
       *KOMPOST: Nahrung für den Geist* \_creates a free artistic context for a
       collaborative artist-in-residence in the Frisian countryside, with a focus
       on the landscape and the role we play in it by eating, living and working
@@ -33,17 +33,6 @@ sections:
       Festival - LUNA in Leeuwarden and at the European Media Art Festival in
       Osnabrück in 2022.
 
-
-      At the end of the week, we presented our work to the festival directors
-      and the press. We set up wireless headphones on top of the silo nearby, so
-      that everybody could enjoy a fantastic view over the dike and the fields.
-      After all, this is the landscape that inspired everything this week,  from
-      the food we ate to the discussions we had to the art we made. The
-      experience was accompanied by a drink made from beetroot syrup, a very
-      local food, which was also made by one of the artists.
-
-
-      Here’s what the landscape sounded like to me:
   - content: >
       At the end of the week, we presented our work to the festival directors
       and the press. We set up wireless headphones on top of the silo nearby, so
