@@ -44,17 +44,18 @@ sections:
 
 
       Here’s what the landscape sounded like to me:
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      At the end of the week, we presented our work to the festival directors
+      and the press. We set up wireless headphones on top of the silo nearby, so
+      that everybody could enjoy a fantastic view over the dike and the fields.
+      After all, this is the landscape that inspired everything this week,  from
+      the food we ate to the discussions we had to the art we made. The
+      experience was accompanied by a drink made from beetroot syrup, a very
+      local food, which was also made by one of the artists.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Here’s what the landscape sounded like to me:
     type: text_section
   - type: text_section
     content: >-
