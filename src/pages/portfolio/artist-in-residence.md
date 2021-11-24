@@ -33,6 +33,11 @@ sections:
       Festival - LUNA in Leeuwarden and at the European Media Art Festival in
       Osnabrück in 2022.
 
+  - image_alt: Impressions
+    caption: Impressions of Marrum
+    width: regular
+    type: image_section
+    image: images/Screenshot 2021-11-24 140805-47e91fd1.png
   - content: >
       At the end of the week, we presented our work to the festival directors
       and the press. We set up wireless headphones on top of the silo nearby, so
@@ -60,11 +65,6 @@ sections:
       href="https://soundcloud.com/liv_official/questions-of-belonging"
       title="Questions Of Belonging" target="_blank" style="color: #cccccc;
       text-decoration: none;">Questions Of Belonging</a></div>
-  - image_alt: Impressions
-    caption: Impressions of Marrum
-    width: regular
-    type: image_section
-    image: images/Screenshot 2021-11-24 140805-47e91fd1.png
 seo:
   title: ''
   description: ''
