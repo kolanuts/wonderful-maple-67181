@@ -63,6 +63,18 @@ sections:
     width: regular
     type: image_section
     image: images/Screenshot 2021-11-24 140805-47e91fd1.png
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: text_section
 seo:
   title: ''
   description: ''
